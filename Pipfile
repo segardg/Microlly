@@ -6,6 +6,13 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+requests = "*"
+flask = "*"
+pytest = "*"
+peewee = "*"
+faker = "*"
+flask-wtf = "*"
+flask-restful = "*"
 
 [requires]
 python_version = "3.5.2"
